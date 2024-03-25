@@ -1,0 +1,15 @@
+body{
+    background-color: burlywood; 
+    color:white;
+ }
+ .heading{
+     width:80%;
+ }
+ #camera{
+     border: 2px dashed black;
+     width:350px;
+     height:300px;
+ }
+ #result_object_name, #result_object_accuracy{
+  color:yellow;
+ }
